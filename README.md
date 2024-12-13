@@ -20,3 +20,7 @@ Open and Run QuizzappApplication.class (run as java application)
 ### Use these URL http://localhost:8080/answer/{QUESTION ID} to answer the question 
 
 ![Screenshot 2024-12-13 192904](https://github.com/user-attachments/assets/b310196e-896a-4f4e-9e44-892257ef8678)
+
+### To Submit the TEST use URL http://localhost:8080/submit 
+
+![Submit](https://github.com/user-attachments/assets/de231aff-dba1-4e9d-9d59-c5abe82343dc)
