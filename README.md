@@ -9,4 +9,4 @@ Go to QuizzappApplication.class file present in package - src/main/com/conceptil
 
 Open and Run QuizzappApplication.class (run as java application)
 
-# First create quizz session by calling url http://localhost:8080/start_quizz
+### First create quizz session by calling url http://localhost:8080/start_quizz
